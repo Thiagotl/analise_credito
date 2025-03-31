@@ -8,3 +8,4 @@ library(arrow)
 # creditcard<- read_csv("creditcard.csv")
 # 
 # write_parquet(creditcard, "creditcard.parquet")
+ # teste test teste 
